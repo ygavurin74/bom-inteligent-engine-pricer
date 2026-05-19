@@ -1,0 +1,5 @@
+{
+  "name": "BOM Intel Engine",
+  "description": "A sophisticated spreadsheet enrichment tool that uses Gemini with Google Search to find detailed component specs, pricing, and availability for electronics manufacturing.",
+  "requestFramePermissions": []
+}
